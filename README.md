@@ -22,7 +22,7 @@ Este projeto visa analisar dados de vendas consolidados de diferentes cidades e 
 
 Contribuições são bem-vindas! Se você quiser melhorar este projecto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Este projecto é complementar ao projecto [ExcelSheetConsolidator](https://github.com/fernandogomesfg/ExcelSheetConsolidator), desenvolvido por Fernando Gomes, que visa consolidar dados de vendas mensais em um único relatório. A versão actual foca na análise dos dados consolidados para fornecer insights adicionais.
+Este projecto é complementar ao projecto [ExcelSheetConsolidator](https://github.com/fernandogomesfg/ExcelSheetConsolidator), desenvolvido por Fernando Gomes, que visa consolidar dados de vendas mensais em um único relatório. A versão actual foca na análise dos dados consolidados para fornecer insights adicionais. 📊
 
 ## Autor
 
